@@ -7,7 +7,7 @@ let erbierc: Programmer = {
   country: "Poland",
   technologies: [...mainStack, ...learnedAtSchool, ...learning],
   specialization: "Frontend",
-  description: "Making my first steps in contributing to open-source!"
+  description: "Making my first steps in the open-source world!"
 }
 ```
 
