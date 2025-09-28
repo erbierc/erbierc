@@ -1,4 +1,15 @@
-## Hi there 👋
+```typescript
+let mainStack = ["Next.js", "React", "TypeScript", "Tailwind"];
+let learnedAtSchool = ["C++", "PHP", "Svelte"];
+let learning = ["NestJS"]
+
+let erbierc: Programmer = {
+  country: "Poland",
+  technologies: [...mainStack, ...learnedAtSchool, ...learning],
+  specialization: "Frontend",
+  description: "Making my first steps in contributing to open-source!"
+}
+```
 
 <!--
 **erbierc/erbierc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
