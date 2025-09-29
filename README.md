@@ -1,6 +1,6 @@
 ```typescript
-let mainStack = ["Next.js", "React", "TypeScript", "Tailwind"];
-let learnedAtSchool = ["C++", "PHP", "Svelte"];
+let mainStack = ["Next.js", "React", "TypeScript", "Tailwind"]
+let learnedAtSchool = ["C++", "PHP", "Svelte"]
 let learning = ["NestJS"]
 
 let erbierc: Programmer = {
